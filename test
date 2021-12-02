@@ -1,5 +1,0 @@
-inputs = [103, 112, 111, 133, 132, 128, 136]
-
-lenght = len(inputs)
-
-print(lenght)
