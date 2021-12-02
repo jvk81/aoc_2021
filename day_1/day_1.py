@@ -1,4 +1,4 @@
-with open('/Users/juha.kuusela/koodailua/harjoittelua/AOC_2021/day_1_inputs.txt', 'r') as f:
+with open('/Users/***********/koodailua/harjoittelua/AOC_2021/day_1_inputs.txt', 'r') as f:
     data = f.read()
 
 
